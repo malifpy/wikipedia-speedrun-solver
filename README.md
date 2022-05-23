@@ -1,1 +1,1 @@
-# wikipedia-speedrun-solver
+# Wikipedia Speedrun Solver
